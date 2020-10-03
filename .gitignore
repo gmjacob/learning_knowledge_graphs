@@ -1,0 +1,3 @@
+#Ignore the locally build neural core ref package.
+#It will need to be rebuilt per implementation
+neuralcoref
