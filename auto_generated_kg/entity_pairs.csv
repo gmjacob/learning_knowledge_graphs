@@ -1,0 +1,117 @@
+,subject,relation,object,subject_type,object_type
+0,Excessive risk taking,caused,values,NOUN_CHUNK,NOUN_CHUNK
+1,Excessive risk taking,caused,damaging financial institutions,NOUN_CHUNK,NOUN_CHUNK
+2,Derivatives,increased,linkage,NOUN_CHUNK,NOUN_CHUNK
+3,- leveraging,accelerated,economic crisis,NOUN_CHUNK,NOUN_CHUNK
+4,customers,avoid,withdrawals,NOUN_CHUNK,NOUN_CHUNK
+5,central banks,purchased,US$2.5 trillion,NOUN_CHUNK,MONEY
+6,governments,guaranteed,debt,NOUN_CHUNK,NOUN_CHUNK
+7,The Federal Reserve,created,significant amounts,ORG,NOUN_CHUNK
+8,Significant controversy,accompanied,bailouts,NOUN_CHUNK,NOUN_CHUNK
+9,banker,served,jail time,NOUN_CHUNK,NOUN_CHUNK
+10,Goldman Sachs,paid,$550 million,ORG,MONEY
+11,Bear Stearns,bailed out,2 of Bear Stearns hedge funds with $20 billion of exposure to collateralized debt obligations,ORG,CARDINAL
+12,Bear Stearns,liquidated,hedge funds,ORG,NOUN_CHUNK
+13,American Home Mortgage,filed,bankruptcy,ORG,NOUN_CHUNK
+14,Northern Rock,received,support,GPE,NOUN_CHUNK
+15,Dow Jones Industrial Average,hit,Dow Jones Industrial Average,NOUN_CHUNK,NOUN_CHUNK
+16,Citigroup,announced,plans,ORG,NOUN_CHUNK
+17,Delta Financial Corporation,filed,bankruptcy,ORG,NOUN_CHUNK
+18,The Federal Reserve,instituted,Term auction facility,ORG,NOUN_CHUNK
+19,Worries,encouraged,people,NOUN_CHUNK,NOUN_CHUNK
+20,The Federal Reserve,took over,American International Group,ORG,ORG
+21,The Reserve Primary Fund,broke,buck,ORG,NOUN_CHUNK
+22,The Reserve Primary Fund,broke,Reserve Primary Fund exposure,ORG,NOUN_CHUNK
+23,America,extended,insurance,GPE,NOUN_CHUNK
+24,Mitsubishi,acquired,20%,ORG,PERCENT
+25,Berkshire Hathaway,made,5 billion investment,ORG,NOUN_CHUNK
+26,the United States House of Representatives Representatives,passed,the Emergency Economic Stabilization Act,ORG,LAW
+27,President George W. Bush,signed,Emergency Economic Stabilization Act,PERSON,NOUN_CHUNK
+28,the Federal Deposit Insurance Corporation,increased,deposit insurance coverage,ORG,NOUN_CHUNK
+29,Indonesian stock market,halted,trading,NOUN_CHUNK,NOUN_CHUNK
+30,the Federal Deposit Insurance Corporation,created,Temporary Liquidity Guarantee Program,ORG,NOUN_CHUNK
+31,investors,A currency crisis,vast capital resources,NOUN_CHUNK,NOUN_CHUNK
+32,the Bank of England England,reduced,the Bank of England,ORG,ORG
+33,Businesses,facing,worst downturn,NOUN_CHUNK,NOUN_CHUNK
+34,and/or,have,default,NOUN_CHUNK,NOUN_CHUNK
+35,Congress,approved,the American Recovery and Reinvestment Act,ORG,ORG
+36,President Barack Obama,signed,President Barack Obama,PERSON,PERSON
+37,The Dow Jones,hit,Dow Jones lowest level,ORG,NOUN_CHUNK
+38,The Dow Jones,hit,drop,ORG,NOUN_CHUNK
+39,President Barack Obama,signed,the Fraud Enforcement and Recovery Act,PERSON,ORG
+40,Household spending,shown,signs,NOUN_CHUNK,NOUN_CHUNK
+41,President Barack Obama,proposed,a Financial Crisis Responsibility Fee,PERSON,ORG
+42,Lending,has,risk weight,NOUN_CHUNK,NOUN_CHUNK
+43,lack,worried,market participants,NOUN_CHUNK,NOUN_CHUNK
+44,homeowners,faced,foreclosure,NOUN_CHUNK,NOUN_CHUNK
+45,appreciation,led,homeowners,NOUN_CHUNK,NOUN_CHUNK
+46,moderate-income Americans,encouraged,mortgage loans,NORP,NOUN_CHUNK
+47,implicit guarantee,created,moral hazard,NOUN_CHUNK,NOUN_CHUNK
+48,financial innovation,enabled,institutions,NOUN_CHUNK,NOUN_CHUNK
+49,policymakers,recognize,increasingly important role,NOUN_CHUNK,NOUN_CHUNK
+50,institutions,assumed,significant debt burdens,NOUN_CHUNK,NOUN_CHUNK
+51,financial cushion,affected,ability,NOUN_CHUNK,NOUN_CHUNK
+52,relatively conservative government sponsored enterprises,policed,mortgage originators,NOUN_CHUNK,NOUN_CHUNK
+53,Fannie Mae,estimated,13 million substandard loans,ORG,NOUN_CHUNK
+54,investment banks,used,financial innovation,NOUN_CHUNK,NOUN_CHUNK
+55,the FDIC,paid,$9 billion,ORG,MONEY
+56,Investment banks,answered,demand,NOUN_CHUNK,NOUN_CHUNK
+57,collateralized debt obligation,enabled,financial institutions,NOUN_CHUNK,NOUN_CHUNK
+58,securities,received,investment grade ratings,NOUN_CHUNK,NOUN_CHUNK
+59,Securities,had,lower credit ratings,NOUN_CHUNK,NOUN_CHUNK
+60,lenders,began,foreclosure proceedings,NOUN_CHUNK,NOUN_CHUNK
+61,The Federal Reserve,lowered,federal funds rate target,ORG,NOUN_CHUNK
+62,Financing trade deficits,required,country,NOUN_CHUNK,NOUN_CHUNK
+63,flood,reached,U.S. financial markets,NOUN_CHUNK,NOUN_CHUNK
+64,Foreign governments,supplied,funds,NOUN_CHUNK,NOUN_CHUNK
+65,U.S. households,used,funds,NOUN_CHUNK,NOUN_CHUNK
+66,Financial institutions,invested,foreign funds,NOUN_CHUNK,NOUN_CHUNK
+67,Loans,required,documentation,NOUN_CHUNK,NOUN_CHUNK
+68,mortgage originations,certified via,Citigroup standards,NOUN_CHUNK,NOUN_CHUNK
+69,Bank of America,modified,"64,000 Countrywide loans",ORG,NOUN_CHUNK
+70,Jimmy Carter Depository Institutions Deregulation Monetary Control Act,broadened,Jimmy Carter Depository Institutions Deregulation Monetary Control Act,NOUN_CHUNK,NOUN_CHUNK
+71,the U.S. Congress,banned,regulation,ORG,NOUN_CHUNK
+72,Changes,allowed,lower risk weightings,NOUN_CHUNK,NOUN_CHUNK
+73,institutions,reported,over $4.1 trillion,NOUN_CHUNK,MONEY
+74,Federal Reserve vice-chair Janet Yellen,discussed,paradoxes,PERSON,NOUN_CHUNK
+75,Businesses,cancelling,planned investments,NOUN_CHUNK,NOUN_CHUNK
+76,financial institutions,shrinking,assets,NOUN_CHUNK,NOUN_CHUNK
+77,Economist Hyman Minsky,understood,dynamic,PERSON,NOUN_CHUNK
+78,Examples,included,adjustable rate mortgage,NOUN_CHUNK,NOUN_CHUNK
+79,CDS,enabled,theoretically infinite,NOUN_CHUNK,NOUN_CHUNK
+80,boom,multiplied,number,NOUN_CHUNK,NOUN_CHUNK
+81,market participants,measure,risk,NOUN_CHUNK,NOUN_CHUNK
+82,pricing model,reflect,level,NOUN_CHUNK,NOUN_CHUNK
+83,The Financial Crisis Inquiry Commission,made,major government study,ORG,NOUN_CHUNK
+84,asset managers,is,asset managers assets,NOUN_CHUNK,NOUN_CHUNK
+85,competition,is,traditional institutions,NOUN_CHUNK,NOUN_CHUNK
+86,asset backed commercial paper conduits,had,combined asset size,NOUN_CHUNK,NOUN_CHUNK
+87,combined balance sheets,totaled,$4 trillion,NOUN_CHUNK,MONEY
+88,Rapid increases,followed,collapse,NOUN_CHUNK,NOUN_CHUNK
+89,credit,triggered,profits,NOUN_CHUNK,NOUN_CHUNK
+90,John C. Bogle John C. Bogle,cites,issues,PERSON,NOUN_CHUNK
+91,large scale momentum,suggested,pivotal role,NOUN_CHUNK,NOUN_CHUNK
+92,stagnation,forced,population,NOUN_CHUNK,NOUN_CHUNK
+93,cooperative banking sector,had,20 % market share,NOUN_CHUNK,NOUN_CHUNK
+94,The Wharton School of the University of Pennsylvania's,regarded,The Banking Crisis,ORG,ORG
+95,followers,predicted,The Banking Crisis,NOUN_CHUNK,ORG
+96,Dirk Bezemer,credits,12 economists,PERSON,NOUN_CHUNK
+97,Stock trader,spent,years,NOUN_CHUNK,DATE
+98,IndyMac,originated over,$90 billion,ORG,MONEY
+99,IndyMac,made,loans,ORG,NOUN_CHUNK
+100,IndyMac,see,efforts,ORG,NOUN_CHUNK
+101,IndyMac,taking,new measures,ORG,NOUN_CHUNK
+102,IndyMac,secured,significant capital infusion,ORG,NOUN_CHUNK
+103,letter,outlined,Senator Charles Schumer,NOUN_CHUNK,PERSON
+104,"capitalized"";IndyMac",notified by,closure,NOUN_CHUNK,NOUN_CHUNK
+105,the FDIC,On,IndyMac,ORG,ORG
+106,the FDIC,the FDIC,plans,ORG,NOUN_CHUNK
+107,the FDIC,the FDIC,funds,ORG,NOUN_CHUNK
+108,the FDIC,the FDIC,"up to US$100,000",ORG,MONEY
+109,financial institution crisis,hit,financial institution crisis peak,NOUN_CHUNK,NOUN_CHUNK
+110,major institutions,included,Lehman Brothers,NOUN_CHUNK,ORG
+111,Peter Schiff,authored,book,PERSON,NOUN_CHUNK
+112,Michael Lewis,authored,best selling non - fiction book,PERSON,NOUN_CHUNK
+113,The US documentary program Frontline,produced,episodes,ORG,NOUN_CHUNK
+114,Central Bankers,Rigged,World,NOUN_CHUNK,NOUN_CHUNK
+115,Decade,Crashed,World,NOUN_CHUNK,NOUN_CHUNK

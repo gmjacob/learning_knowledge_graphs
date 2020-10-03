@@ -75,6 +75,7 @@ def entity_pairs(text, coref=True):
     )
 
     print('Entity pairs extracted: ', str(len(filtered_ent_pairs)))
+    print(pairs.to_csv('entity_pairs.csv', index = True))
     return pairs
 
 def refine_ent(ent, sent):
