@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "auto_generated_kg"
+version = "0.1.0"
+description = "Generate a knowledge graph by using wiki data. Basic version built by following a tutorial"
+authors = ["George <george@oneorigin.us>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+spacy = "^2.3.2"
+pandas = "^1.1.2"
+networkx = "^2.5"
+matplotlib = "^3.3.2"
+neo4j = "^4.1.1"
+wikipedia-api = "^0.5.4"
+tqdm = "^4.50.0"
+
+[tool.poetry.dev-dependencies]
+pylint = "^2.6.0"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
